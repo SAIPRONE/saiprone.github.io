@@ -2,9 +2,4 @@ theme: jekyll-theme-minimal
 email: fadi.helal@pm.me
 title: Fadi Helal's homepage
 description: Bookmark this to keep an eye on my project updates!
-excerpt_separator: .
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
 url: "https://saiprone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
