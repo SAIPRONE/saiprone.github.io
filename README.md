@@ -1,9 +1,5 @@
 
 # Welcome
-theme: jekyll-theme-minimal
-email: fadi.helal@pm.me
-title: Fadi Helal's homepage
-description: Bookmark this to keep an eye on my project updates!
 baseurl: "/jekyll-featured-images" # the subpath of your site, e.g. /blog
 url: "https://saiprone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 excerpt_separator: .
