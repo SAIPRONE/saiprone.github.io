@@ -1,6 +1,5 @@
 
 # Welcome
-url: "https://saiprone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 excerpt_separator: .
 # Build settings
 theme: minima
