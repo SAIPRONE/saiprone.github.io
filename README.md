@@ -6,7 +6,6 @@ title: Fadi Helal's homepage
 description: Bookmark this to keep an eye on my project updates!
 baseurl: "/jekyll-featured-images" # the subpath of your site, e.g. /blog
 url: "https://saiprone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# only get the first sentence for the excerpt
 excerpt_separator: .
 # Build settings
 theme: minima
