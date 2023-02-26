@@ -1,10 +1,5 @@
 
 # Welcome
-excerpt_separator: .
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
 ### My Tasks:
 - [x] Task Website must be public.
 - [x] Task Use at least handful of Github flavour markdown features to format the web page.
