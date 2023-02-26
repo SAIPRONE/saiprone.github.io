@@ -6,6 +6,4 @@
 - [x] Task Document your work progress with few screenshots to the learning diary.
 - [x] Write the Github page address to the learning diary so that your peer reviewers can verify it easily.
 - [x] Keep the pages available until you have received your course grade.
-[^1]: Notice:
-[^reference]: Check further about Cloud Services - 5 ECTS at [Cloud Services - 5 ECTS] (https://tl.oamk.fi/cloudservices/)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
