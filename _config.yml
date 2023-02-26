@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Fadi Helal's homepage
 description: Bookmark this to keep an eye on my project updates!
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ### My Tasks:
 - [x] Task Website must be public.
 - [x] Task Use at least handful of Github flavour markdown features to format the web page.
